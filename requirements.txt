@@ -1,0 +1,6 @@
+# BugBountySuite Dependencies—install this or eat dirt!
+pyqt6==6.7.0
+requests==2.31.0
+beautifulsoup4==4.12.3
+aiohttp==3.9.5
+dnspython==2.6.1
